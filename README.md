@@ -1,11 +1,11 @@
 # Hello, I'm Tejas👋
 <a href="https://www.linkedin.com/in/tejas-wakodkar"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a recent graduate with a passion for cybersecurity. This portfolio highlights my projects and research as a student, showcasing my dedication to securing digital environments. Feel free to explore my work and connect with me!
+Welcome to my GitHub portfolio! I'm a recent graduate with a deep passion for cybersecurity. This portfolio highlights my projects and research, showcasing my dedication to securing digital environments. Feel free to explore my work and connect with me!
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a Cybersecurity Analyst. My aim is to protect digital assets and contribute to defending against emerging threats while continuously expanding my knowledge and skills in the cybersecurity field.
+My journey in computer science has led me to develop a passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join as a Cybersecurity Analyst. My goal is to protect digital assets and contribute to defending against emerging threats while continuously expanding my knowledge and skills in the cybersecurity domain.
 
 ## Skills
 
