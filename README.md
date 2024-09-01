@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Controls and Compilance                       | <a href="https://github.com/iTejasW/Secutity_Audit">Security Audit: Ensuring Compliance and Identifying Vulnerabilities</a>|
+| Controls and Compliance                       | <a href="https://github.com/iTejasW/Secutity_Audit">Security Audit: Ensuring Compliance and Identifying Vulnerabilities</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/iTejasW/Incident-Respond.git">Incident Response: Planning, Execution, and Post-Incident Analysis</a>|
 | Linux                                         | <a href="https://github.com/iTejasW/Linux-File-Permission.git">Linux File Permission: Managing Secure Access Control.</a>|
 | Risk and Vulnerability Assessment             | <a href="https://github.com/iTejasW/Vulnerability-Assessment-.git">Risk and Vulnerability Assessment: Identifying and Mitigating Organizational Risks</a>|
