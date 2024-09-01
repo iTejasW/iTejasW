@@ -11,11 +11,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Controls and Compilance                       | <a href="https://github.com/iTejasW/Secutity_Audit">Security Audit</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/iTejasW/Incident-Respond.git">Incident Respond</a>|
-| Linux                                         | <a href="https://github.com/iTejasW/Linux-File-Permission.git">Linux File Permission</a>|
-| Risk and Vulnerability Assessment             | <a href="https://github.com/iTejasW/Vulnerability-Assessment-.git">Risk Assessment</a>|
-| Python                                        | <a href="https://github.com/iTejasW/Automate-Security-Task.git">Automate Security Task</a>|
+| Controls and Compilance                       | <a href="https://github.com/iTejasW/Secutity_Audit">Security Audit: Ensuring Compliance and Identifying Vulnerabilities</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/iTejasW/Incident-Respond.git">Incident Response: Planning, Execution, and Post-Incident Analysis</a>|
+| Linux                                         | <a href="https://github.com/iTejasW/Linux-File-Permission.git">Linux File Permission: Managing Secure Access Control.</a>|
+| Risk and Vulnerability Assessment             | <a href="https://github.com/iTejasW/Vulnerability-Assessment-.git">Risk and Vulnerability Assessment: Identifying and Mitigating Organizational Risks</a>|
+| Python                                        | <a href="https://github.com/iTejasW/Automate-Security-Task.git">Security Automation: Streamlining Security Tasks with Python</a>|
 ## Tools
 
 ### Network
@@ -23,6 +23,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-FF4500?style=for-the-badge&logo=tcpdump&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-800080?style=for-the-badge&logo=nmap&logoColor=white" />
+
 </div>
 
 ### Endpoint
