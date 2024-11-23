@@ -16,6 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Linux                                         | <a href="https://github.com/iTejasW/Linux-File-Permission.git">Linux File Permission: Managing Secure Access Control.</a>|
 | Risk and Vulnerability Assessment             | <a href="https://github.com/iTejasW/Vulnerability-Assessment-.git">Risk and Vulnerability Assessment: Identifying and Mitigating Organizational Risks</a>|
 | Python                                        | <a href="https://github.com/iTejasW/Automate-Security-Task.git">Security Automation: Streamlining Security Tasks with Python</a>|
+| Vulnerability Assessment and Penetration Testing(VAPT)       | VAPT on WEB Application Using Burp Suite, ZAP, Nessus, Nmap|
 ## Tools
 
 ### Network
@@ -24,6 +25,20 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-FF4500?style=for-the-badge&logo=tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-800080?style=for-the-badge&logo=nmap&logoColor=white" />
+
+</div>
+
+### Web Application Security Tools
+<div>
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF5722?style=for-the-badge&logo=burp-suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+
+</div>
+
+### Vulnerability Assessment Tools
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-00A1E0?style=for-the-badge&logo=tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVAS-48A547?style=for-the-badge&logo=openvas&logoColor=white" />
 
 </div>
 
