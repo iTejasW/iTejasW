@@ -1,4 +1,4 @@
-# Hello, I'm Tejas👋
+# Hello, I'm Tejas😉
 <a href="https://www.linkedin.com/in/tejas-wakodkar"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Welcome to my Security portfolio! I'm a recent graduate with a deep passion for cybersecurity. This portfolio highlights my projects and research, showcasing my dedication to securing digital environments. Feel free to explore my work and connect with me!
