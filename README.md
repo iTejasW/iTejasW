@@ -5,7 +5,8 @@ Welcome to my Security portfolio! I'm a recent graduate with a deep passion for 
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join as a Cybersecurity Analyst. My goal is to protect digital assets and contribute to defending against emerging threats while continuously expanding my knowledge and skills in the cybersecurity domain.
+Aspiring Cybersecurity Analyst with experience in ethical hacking, penetration testing, and web application security. Skilled in using tools like Burp Suite, ZAP, NMAP, and Nessus. 
+Dedicated to securing digital infrastructures and constantly advancing cybersecurity skills to stay ahead of emerging threats.
 
 ## Skills
 
