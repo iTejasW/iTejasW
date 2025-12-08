@@ -38,6 +38,8 @@ Welcome to my Security portfolio! I'm a recent graduate with a deep passion for 
 | Risk and Vulnerability Assessment             | <a href="https://github.com/iTejasW/Vulnerability-Assessment-.git">Risk and Vulnerability Assessment: Identifying and Mitigating Organizational Risks</a>|
 | Python                                        | <a href="https://github.com/iTejasW/Automate-Security-Task.git">Security Automation: Streamlining Security Tasks with Python</a>|
 | Vulnerability Assessment and Penetration Testing(VAPT)       | VAPT on WEB Application Using Burp Suite, ZAP, Nessus, Nmap|
+| </a>|
+| Security Operations Center(SOC)   | SOC Analyst Path (LetsDefend): Hands-on experience in monitoring SIEM alerts, investigating incidents, and responding to real-world cyber threats| </a> |
 ## Tools
 
 ### Network
