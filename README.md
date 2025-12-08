@@ -5,16 +5,27 @@ Welcome to my Security portfolio! I'm a recent graduate with a deep passion for 
 
 ## Hands-On Cybersecurity Capabilities:
 🔹 Perform log monitoring, alert triage, and incident analysis in a Security Operations Center (SOC) workflow
+
 🔹 Work with SIEM tools like Splunk and ELK Stack for event correlation and threat detection
+
 🔹 Conduct network scanning and enumeration using Nmap, Netcat, and Wireshark
+
 🔹 Perform vulnerability assessments with tools like Nessus and Nikto
+
 🔹 Identify and exploit web application vulnerabilities such as XSS, CSRF, SQL Injection, etc. using tools like Burp Suite.
+
 🔹 Analyze and filter packet-level network traffic using Wireshark
+
 🔹 Investigate logs and trace indicators of compromise (IOCs) during incidents
+
 🔹 Understand and apply firewall and IDS/IPS fundamentals
+
 🔹 Administer and harden Linux and Windows servers, including user management and permission configuration
+
 🔹 Use the MITRE ATT&CK framework to map attacker tactics and techniques
+
 🔹 Write Python scripts to automate basic cybersecurity tasks and support analysis
+
 🔹 Perform basic malware analysis (static and dynamic) to identify malicious behavior and extract indicators of compromise
 
 ## Skills
