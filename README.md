@@ -1,5 +1,6 @@
 # Hello, I'm Tejas😉
 <a href="https://www.linkedin.com/in/tejas-wakodkar"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 Cybersecurity enthusiast and entry-level SOC Analyst based in Mumbai, India. Currently at Capgemini. Passionate about network security, threat hunting, SIEM, and EDR tools. Feel free to explore my work and connect with me!
 
 ## Hands-On Cybersecurity Capabilities:
