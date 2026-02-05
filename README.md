@@ -1,7 +1,6 @@
 # Hello, I'm Tejas😉
 <a href="https://www.linkedin.com/in/tejas-wakodkar"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-Welcome to my Security portfolio! I'm a recent graduate with a deep passion for cybersecurity. This portfolio highlights my projects and research, showcasing my dedication to securing digital environments. Feel free to explore my work and connect with me!
+Cybersecurity enthusiast and entry-level SOC Analyst based in Mumbai, India. Currently at Capgemini. Passionate about network security, threat hunting, SIEM, and EDR tools. Feel free to explore my work and connect with me!
 
 ## Hands-On Cybersecurity Capabilities:
 🔹 Perform log monitoring, alert triage, and incident analysis in a Security Operations Center (SOC) workflow
