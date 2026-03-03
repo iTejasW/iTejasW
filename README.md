@@ -23,32 +23,45 @@ I enjoy analyzing incidents, breaking insecure applications, investigating malwa
 
 ---
 
-## 🧠 Skills & Tools
+## 🛠 Skills & Tools
 
-### 🔹 SOC & Threat Monitoring  
-- SIEM Platforms: **Splunk, Microsoft Sentinel, Elastic (ELK Stack)**  
-- Log Analysis & Alert Tuning
+### 🛰 Security Operations (SOC)
+- SOC Monitoring • Threat Hunting • Incident Response • Triage  
+- Root Cause Analysis (RCA) • Log Analysis • Alert Tuning  
+- MITRE ATT&CK Mapping • IOC Analysis  
+- SIEM Platforms: **Splunk, Microsoft Sentinel, Elastic (ELK)**
 
-### 🔹 Network & Traffic Analysis  
-- **Wireshark, tcpdump, Suricata**  
-- Packet Capture • IDS/IPS Analysis
+### 🌐 Network Security
+- Wireshark • tcpdump • Suricata  
+- Packet Capture (PCAP) Analysis • IDS/IPS Monitoring  
+- Network Hardening & Traffic Analysis
 
-### 🔹 Vulnerability Assessment & Pentesting  
-- Tools: **Burp Suite, OWASP ZAP, Nessus, OpenVAS**  
-- Web App Testing • Scan Analysis • Reporting
+### 🔍 Vulnerability Management & Pentesting (VAPT)
+- Web Application & Network Penetration Testing  
+- Vulnerability Scanning & Exploitation  
+- Tools: **Burp Suite, OWASP ZAP, Nessus, OpenVAS, Nmap, Metasploit**  
+- Reporting, Remediation Guidance & Secure Configuration
 
-### 🔹 DFIR & Malware Analysis  
-- **YARA** (rule creation & detection)  
-- **oletools** (Office document analysis)  
-- **peepdf** (PDF reverse‑analysis)
+### 🧪 DFIR & Malware Analysis
+- Static & Dynamic Malware Analysis  
+- PDF Analysis (peepdf, pdf-parser, pdfid)  
+- **YARA** rule creation • Signature-based Detection  
+- Evidence Collection & Preservation • Forensics Methodology  
+- MITRE ATT&CK (T1204.002 User Execution etc.)
 
-### 🔹 Scripting & Automation  
-- **Python, Bash**  
-- Automation of scans, log parsing, repetitive SOC tasks
+### 🔐 Identity & Access Management (IAM)
+- IAM Operations • Privileged Access Management (PAM)  
+- MFA Implementation • Least-Privilege Enforcement  
+- Secure HTTP Headers • Authentication/Authorization Controls
 
-### 🔹 Platforms  
-- **Linux (Kali, Ubuntu)**  
-- **Windows Server**
+### ⚙️ Scripting & Automation
+- Python (automation, parsing, security tools scripting)  
+- Bash (system automation, log parsing)
+
+### 💻 Platforms & Operating Systems
+- Linux: Kali, Ubuntu  
+- Windows & Windows Server  
+- CI/CD Environments (from resume experience)
 
 ---
 
