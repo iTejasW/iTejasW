@@ -10,16 +10,16 @@ I enjoy analyzing incidents, breaking insecure applications, investigating malwa
 
 ## 🔥 Featured Cybersecurity Projects
 
-| Project | Repository Link | Description |
-|--------|------------------|-------------|
-| **Security Audit & Compliance Lab** | [github.com/iTejasW/security-audit-compliance-lab](https://github.com/iTejasW) | Performed security configuration review, compliance checking, and remediation planning. |
-| **Incident Response Investigation Lab** | [github.com/iTejasW/incident-response-lab](https://github.com/iTejasW) | Simulated security incidents, extracted IOCs, built IR timeline, and documented an incident report. |
-| **Linux Hardening & Permissions Lab** | [github.com/iTejasW/linux-hardening-permissions-lab](https://github.com/iTejasW) | Explored Linux permissions, SUID/SGID risks, privilege escalation, and secure configuration. |
-| **Risk & Vulnerability Assessment Lab** | [github.com/iTejasW/vulnerability-risk-assessment-lab](https://github.com/iTejasW) | Conducted threat modeling, vulnerability scoring, and mitigation strategy development. |
-| **Python Security Automation Scripts** | [github.com/iTejasW/python-security-automation-scripts](https://github.com/iTejasW) | Python scripts for log parsing, IOC extraction, URL scanning, and SOC workflow automation. |
-| **Web Application VAPT – E‑commerce Platform** | [github.com/iTejasW/vapt-ecommerce-security-testing](https://github.com/iTejasW) | Identified 12+ vulnerabilities including CSRF, XSS, weak cookies, SSL issues, and outdated dependencies. |
-| **Malware Forensics – Malicious PDF (CVE-2022‑28277)** | [github.com/iTejasW/malicious-pdf-static-analysis](https://github.com/iTejasW) | Static analysis of a malicious PDF using pdfid, pdf-parser, peepdf + YARA rule creation. |
-| **SOC Analyst Lab (LetsDefend)** | [github.com/iTejasW/soc-analyst-lab](https://github.com/iTejasW) | Hands‑on SIEM investigations, threat hunting write‑ups, alert triage, and SOC workflows. |
+| Project | Description |
+|---|---|
+| [Security Audit & Compliance Lab](https://github.com/iTejasW/security-audit-compliance-lab.git) | Performed security configuration review, compliance checking, and remediation planning. |
+| [Incident Response Investigation Lab](https://github.com/iTejasW/incident-response-lab.git) | Simulated security incidents, extracted IOCs, built IR timelines, and documented incident reports. |
+| [Linux Hardening & Permissions Lab](https://github.com/iTejasW/linux-hardening-permissions-lab.git) | Explored Linux permissions, SUID/SGID risks, privilege escalation paths, and secure configurations. |
+| [Risk & Vulnerability Assessment Lab](https://github.com/iTejasW/vulnerability-risk-assessment-lab.git) | Conducted threat modeling, vulnerability scoring, and mitigation strategy development. |
+| [Python Security Automation Scripts](https://github.com/iTejasW/python-security-automation-scripts.git) | Python scripts for log parsing, IOC extraction, URL scanning, and SOC workflow automation. |
+| [Web Application VAPT – E‑commerce Platform](https://github.com/iTejasW/vapt-ecommerce-security-testing.git) | including CSRF, XSS, weak cookies, SSL issues, and outdated dependencies. |
+| [Malware Forensics – Malicious PDF (CVE‑2022‑28277)](https://github.com/iTejasW/malicious-pdf-static-analysis.git) | Static analysis using pdfid, pdf-parser, peepdf; mapped ATT&CK T1204.002; created a YARA rule. |
+| [SOC Analyst Lab (LetsDefend)](https://github.com/iTejasW/soc-analyst-lab.git) | SIEM investigations, threat hunting write-ups, alert triage, and SOC workflows. |
 
 ---
 
