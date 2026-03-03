@@ -4,12 +4,11 @@
 📧 Email: tejas.wakodkar9223@gmail.com  
 
 ---
-🔐 Cybersecurity Analyst specializing in **SOC Operations, VAPT, DFIR & Incident Response.** 
+🔐 Cybersecurity Analyst specializing in **SOC Operations, VAPT, DFIR & Incident Response.**
 ⚡ I solve security problems by detecting threats, breaking insecure systems, analyzing malware, and automating defenses.  
 🎯 My work focuses on reducing risk, improving detection, and strengthening security posture through hands-on labs and real-world simulations.
 
 ---
-
 ## 🔥 Featured Cybersecurity Projects
 
 | Project | Description |
