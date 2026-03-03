@@ -10,6 +10,7 @@
 🎯 My work focuses on reducing risk, improving detection, and strengthening security posture through hands-on labs and real-world simulations.
 
 ---
+---
 ## 🔥 Featured Cybersecurity Projects
 
 | Project | Description |
