@@ -23,13 +23,32 @@ I enjoy analyzing incidents, breaking insecure applications, investigating malwa
 
 ---
 
-## 🛠 Skills & Tools
-- **SOC Tools:** Splunk, Sentinel, Elastic  
-- **Network:** Wireshark, tcpdump, Suricata  
-- **VAPT:** Burp Suite, OWASP ZAP, Nessus, OpenVAS  
-- **DFIR:** YARA, oletools, peepdf  
-- **Languages:** Python, Bash  
-- **Platforms:** Linux (Kali/Ubuntu), Windows Server  
+## 🧠 Skills & Tools
+
+### 🔹 SOC & Threat Monitoring  
+- SIEM Platforms: **Splunk, Microsoft Sentinel, Elastic (ELK Stack)**  
+- Log Analysis & Alert Tuning
+
+### 🔹 Network & Traffic Analysis  
+- **Wireshark, tcpdump, Suricata**  
+- Packet Capture • IDS/IPS Analysis
+
+### 🔹 Vulnerability Assessment & Pentesting  
+- Tools: **Burp Suite, OWASP ZAP, Nessus, OpenVAS**  
+- Web App Testing • Scan Analysis • Reporting
+
+### 🔹 DFIR & Malware Analysis  
+- **YARA** (rule creation & detection)  
+- **oletools** (Office document analysis)  
+- **peepdf** (PDF reverse‑analysis)
+
+### 🔹 Scripting & Automation  
+- **Python, Bash**  
+- Automation of scans, log parsing, repetitive SOC tasks
+
+### 🔹 Platforms  
+- **Linux (Kali, Ubuntu)**  
+- **Windows Server**
 
 ---
 
