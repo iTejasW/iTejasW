@@ -63,4 +63,7 @@ Realistic SIEM alert triage, threat hunting exercises, malware investigations, i
 ---
 
 ## 📫 Contact  
-If you'd like to collaborate, discuss cybersecurity, or explore my projects — feel free to connect!
+If you'd like to collaborate, discuss cybersecurity, or explore my projects — feel free to connect! 
+📧 tejas.wakodkar9223@gmail.com  
+🌐 LinkedIn: https://linkedin.com/in/tejas-wakodkar
+
