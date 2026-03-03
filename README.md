@@ -1,98 +1,66 @@
+# 👋 Hello, I'm Tejas Wakodkar
+📍 Cybersecurity Analyst | SOC • VAPT • DFIR • Incident Response  
+🔗 LinkedIn: https://www.linkedin.com/in/tejas-wakodkar  
+📧 Email: tejas.wakodkar9223@gmail.com  
 
-# 👋 Hello, I'm Tejas Wakodkar  
-<a href="https://www.linkedin.com/in/tejas-wakodkar">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-Cybersecurity Analyst specializing in **SOC Operations, Incident Response, VAPT, and DFIR**.  
-I enjoy investigating security incidents, analyzing logs, breaking vulnerable apps, and building small automations that make security workflows faster.
-
----
-
-## 🔥 Core Security Competencies
-
-- SOC Monitoring • SIEM Analysis • Alert Triage  
-- Incident Investigation • IOC Analysis • Threat Hunting  
-- VAPT (Burp Suite, ZAP, Nessus, Nmap)  
-- Malware Static Analysis (PDFs, Scripts)  
-- Linux Hardening & Permissions  
-- Security Automation using Python  
-- MITRE ATT&CK Mapping  
-- Network Traffic Analysis (Wireshark, tcpdump)
+I specialize in **Security Operations, Threat Hunting, VAPT, DFIR, and IAM Security**.  
+I enjoy analyzing incidents, breaking insecure applications, investigating malware, and automating workflows using Python.
 
 ---
 
-## 📌 Featured Security Projects
+## 🔥 Featured Cybersecurity Projects
 
-### 🔹 **1. Security Audit & Compliance Lab**  
-📁 `security-audit-compliance-lab`  
-A hands‑on project where I reviewed system configurations, identified misconfigurations, and mapped findings to baseline security frameworks.
+### 🔹 **Security Audit & Compliance Lab**  
+➡️ https://github.com/iTejasW/security-audit-compliance-lab  
+Performed security configuration review, compliance gap identification, and remediation planning.
 
----
+### 🔹 **Incident Response: Planning, Execution & Analysis**  
+➡️ https://github.com/iTejasW/incident-response-lab  
+Includes incident timeline creation, IOC extraction, IR checklist, and reporting templates.
 
-### 🔹 **2. Incident Response Lab**  
-📁 `incident-response-lab`  
-Simulated an enterprise incident scenario, performed evidence triage, IOC extraction, containment, and documented a full IR report.
+### 🔹 **Linux Hardening & File Permissions Lab**  
+➡️ https://github.com/iTejasW/linux-hardening-permissions-lab  
+Covered file permissions, privilege escalation checks, SUID/GUID analysis, and hardening steps.
 
----
+### 🔹 **Risk & Vulnerability Assessment Lab**  
+➡️ https://github.com/iTejasW/vulnerability-risk-assessment-lab  
+Complete threat modeling, vulnerability scoring, and risk mitigation strategy.
 
-### 🔹 **3. Linux Permissions Hardening**  
-📁 `linux-permissions-hardening-lab`  
-Explored file permissions, privilege assignments, SUID/GUID analysis, and secure server configuration.
+### 🔹 **Python Security Automation Scripts**  
+➡️ https://github.com/iTejasW/python-security-automation-scripts  
+Log parsers, IOC extraction, URL scanners, automation helpers for SOC workflows.
 
----
+### 🔹 **Web Application VAPT – E‑commerce Platform**  
+➡️ https://github.com/iTejasW/vapt-ecommerce-security-testing  
+Identified 12+ vulnerabilities including SSL misconfigurations, CSRF, insecure cookies, outdated libraries, etc.
 
-### 🔹 **4. Vulnerability & Risk Assessment Lab**  
-📁 `vulnerability-risk-assessment-lab`  
-Performed risk assessment, identified threats, rated vulnerabilities, and recommended mitigation strategies.
+### 🔹 **Malware Forensics: Static Analysis of Malicious PDFs (CVE-2022-28277)**  
+➡️ https://github.com/iTejasW/malicious-pdf-static-analysis  
+Used pdfid, pdf-parser, peepdf; extracted embedded JS, mapped findings to ATT&CK T1204.002, created YARA rules.
 
----
-
-### 🔹 **5. Python Security Automation Scripts**  
-📁 `python-security-automation-scripts`  
-Automation scripts for log parsing, IOC filtration, API lookups, and repetitive SOC tasks.
-
----
-
-### 🔹 **6. Web Application VAPT Lab**  
-📁 `vapt-web-application-lab`  
-Performed reconnaissance, scanning, exploitation (XSS/CSRF/SQLi), and documented findings.
+### 🔹 **SOC Analyst Lab (LetsDefend)**  
+➡️ https://github.com/iTejasW/soc-analyst-lab  
+Realistic SIEM alert triage, threat hunting exercises, malware investigations, incident documentation.
 
 ---
 
-### 🔹 **7. SOC Analyst Path (LetsDefend)**  
-Hands‑on SOC exercises including SIEM alert investigation, threat hunting, malware triage & IR workflows.
-
----
-
-## 🛠 Tools & Technologies
-
-### **Network & Forensics**
-Wireshark • Suricata • tcpdump • Netcat
-
-### **Web Security**
-Burp Suite • OWASP ZAP • Nikto
-
-### **Vulnerability Scanners**
-Nessus • OpenVAS
-
-### **Endpoint Security**
-Microsoft Defender for Endpoint • Velociraptor
-
-### **SIEM**
-Splunk • Microsoft Sentinel • ELK Stack
+## 🛠 Skills & Tools
+- **SOC Tools:** Splunk, Sentinel, Elastic  
+- **Network:** Wireshark, tcpdump, Suricata  
+- **VAPT:** Burp Suite, OWASP ZAP, Nessus, OpenVAS  
+- **DFIR:** YARA, oletools, peepdf  
+- **Languages:** Python, Bash  
+- **Platforms:** Linux (Kali/Ubuntu), Windows Server  
 
 ---
 
 ## 🎓 Certifications
-
+- SOC Analyst Learning Path — LetsDefend  
+- OCEAN L1 – Capgemini SOC Analyst  
 - Google Cybersecurity Professional Certificate  
-- PCAP – Certified Associate in Python Programming  
-- SOC Analyst Path – LetsDefend  
-- Capgemini OCEAN L1 – SOC Analyst  
+- PCAP – Python Programming (Cisco Networking Academy)
 
 ---
 
 ## 📫 Contact  
-📧 tejas.wakodkar9223@gmail.com  
-🌐 LinkedIn: https://linkedin.com/in/tejas-wakodkar
+If you'd like to collaborate, discuss cybersecurity, or explore my projects — feel free to connect!
