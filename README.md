@@ -3,9 +3,9 @@
 🔗 LinkedIn: https://www.linkedin.com/in/tejas-wakodkar  
 📧 Email: tejas.wakodkar9223@gmail.com  
 
-I specialize in **Security Operations, Threat Hunting, VAPT, DFIR, and IAM Security**.  
-I enjoy analyzing incidents, breaking insecure applications, investigating malware, and automating workflows using Python.
-
+🔐 Cybersecurity Analyst specializing in SOC Operations, VAPT, DFIR & Incident Response  
+⚡ I solve security problems by detecting threats, breaking insecure systems, analyzing malware, and automating defenses.  
+🎯 My work focuses on reducing risk, improving detection, and strengthening security posture through hands-on labs and real-world simulations.
 ---
 
 ## 🔥 Featured Cybersecurity Projects
