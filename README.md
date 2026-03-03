@@ -43,6 +43,7 @@ I enjoy analyzing incidents, breaking insecure applications, investigating malwa
 
 ## 📫 Contact  
 If you'd like to collaborate, discuss cybersecurity, or explore my projects — feel free to connect! 
+
 📧 tejas.wakodkar9223@gmail.com  
 🌐 LinkedIn: https://linkedin.com/in/tejas-wakodkar
 
